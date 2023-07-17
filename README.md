@@ -1,7 +1,8 @@
-<h1 align="center"> Hello, fellow data enthusiasts!👋</h1>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/32/42/cd/3242cd86b9986b537732ad0244f8e042.gif" height="300" width="750" />
 </div>
+<h1 align="center"> Hello, fellow data enthusiasts!👋</h1>
+
 I'm Elizabeth Soto, a passionate technologist dedicated to forging a career at the intersection of machine learning, AI, and data analytics. With a strong foundation in computer science, a burning curiosity for extracting insights from complex datasets, and a comprehensive understanding of full stack development, I'm driven to harness the power of data to shape the future. <br><br>
 - 🌱 Currently, I'm deepening my knowledge in machine learning algorithms and advanced data analytics techniques. <br>
 - 💻 With my expertise in full stack development, I have the ability to bring end-to-end solutions to life, seamlessly integrating powerful data-driven backends with intuitive user interfaces. <br>
