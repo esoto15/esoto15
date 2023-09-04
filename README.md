@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/32/42/cd/3242cd86b9986b537732ad0244f8e042.gif" height="300" width="750" />
 </div>
-<h1 align="center"> Hello, fellow data enthusiasts!👋</h1>
+<h1 align="center"> Hello, my name is Elizabeth Soto👋</h1>
 
 Welcome to my GitHub world, where I'm on a mission to shape the digital landscape through dynamic and user-centric web applications. As a passionate web development enthusiast, I thrive at the intersection of creativity and coding, sculpting interactive online experiences that captivate and engage.
 
