@@ -1,5 +1,3 @@
-<img align="right" src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" height="400" width="500" />  
-
 **Hello, my name is Elizabeth Soto👋**  
 ![Profile Views](https://komarev.com/ghpvc/?username=esoto15&color=ff6e96)      
 
@@ -50,7 +48,8 @@ Beyond the code, I'm a firm believer in collaboration and knowledge sharing. My 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=esoto15&hide_title=false&theme=dracula&layout=donut)
 ![contributions](https://github-readme-streak-stats.herokuapp.com/?user=esoto15&card_width=400&theme=dracula)
-![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esoto15&theme=dracula)
+![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esoto15&theme=dracula)  
+![Snake animation](https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.svg)
 
 <!--   
 --!>
