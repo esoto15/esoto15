@@ -48,8 +48,7 @@ Beyond the code, I'm a firm believer in collaboration and knowledge sharing. My 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=esoto15&hide_title=false&theme=dracula&layout=donut)
 ![contributions](https://github-readme-streak-stats.herokuapp.com/?user=esoto15&card_width=400&theme=dracula)
-![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esoto15&theme=dracula)  
-![Snake animation](https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 <!--   
 --!>
