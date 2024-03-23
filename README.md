@@ -8,7 +8,7 @@ But it's not just about the code; it's about solving real-world problems. From b
 
 Beyond the code, I'm a firm believer in collaboration and knowledge sharing. My GitHub journey is not just a personal odyssey; it's an invitation to the vibrant web development community. Let's connect, collaborate, and innovate together as we explore the endless possibilities of web technologies. 🚀 #WebDevEnthusiast
 
-🛠️ Languages and Tools  
+### 🛠️ Languages and Tools  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -44,11 +44,10 @@ Beyond the code, I'm a firm believer in collaboration and knowledge sharing. My 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
 
+<p align="center">
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esoto15&hide_title=false&theme=dracula&layout=donut&card_width=300" align = "center"/>
+<img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=esoto15&card_width=350&theme=dracula" align = "center"/>
+</p>
+<img width="100%" src="https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.gif?color_snake=pink&color_dots=#999999,#777777,#555555,#333333,#111111">  
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=esoto15&hide_title=false&theme=dracula&layout=donut)
-![contributions](https://github-readme-streak-stats.herokuapp.com/?user=esoto15&card_width=400&theme=dracula)
-![Snake animation](https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
-
-<!--   
---!>
   
