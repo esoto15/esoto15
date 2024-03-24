@@ -48,6 +48,6 @@ Beyond the code, I'm a firm believer in collaboration and knowledge sharing. My 
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esoto15&hide_title=false&theme=dracula&layout=donut&card_width=300" align = "center"/>
 <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=esoto15&card_width=350&theme=dracula" align = "center"/>
 </p>
-<img width="100%" src="https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.gif?color_snake=#ff6e96&color_dots=#282a36,#777777,#555555,#333333,#111111">  
+<img width="100%" src="https://github.com/esoto15/esoto15/blob/output/github-contribution-grid-snake.gif?color_snake=#ff6e96&color_dots=#D2D2D2,#B4B4B4,#999999,#555555,#111111">  
 
   
