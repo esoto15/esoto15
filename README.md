@@ -1,12 +1,26 @@
-# Hello, my name is Elizabeth Soto👋  
+### Hello there! 👋
 
-Welcome to my GitHub world, where I'm on a mission to shape the digital landscape through dynamic and user-centric web applications. As a passionate web development enthusiast, I thrive at the intersection of creativity and coding, sculpting interactive online experiences that captivate and engage.
+My name is Elizabeth Soto, and I'm currently a graduate student at Northeastern Illinois University pursuing a master's degree in Computer Science. I'm expected to graduate in December 2024.
 
-My journey in web development is a story of continuous learning and innovation. With a strong foundation in HTML, CSS, and JavaScript, I'm constantly exploring new frontiers, from modern web frameworks like React and Vue to server-side technologies like Node.js and Express.js. The canvas of my GitHub repositories showcases my commitment to staying current with industry trends, featuring projects that reflect my dedication to crafting clean, efficient, and visually appealing code.
+#### About Me:
+- 📚 Vice President, Society of Hispanic Professional Engineers (SHPE) Chapter at NEIU.
+  - Organizing workshops, inviting industry speakers, and raising funds to support students attending the yearly SHPE conference.
+- 🎓 Part-time Graduate Research Student.
+  - Conducting research to improve food pantry engagement through social media posts, with a focus on reaching the Hispanic audience, who are disproportionately affected by food insecurity in the United States.
+- 🌟 Volunteer at the Mission of Our Lady of the Angels food pantry in Chicago.
+  - Helping distribute food to 5000 families a month and gaining insights into food insecurity and community support systems.
+- 💻 Backend and Frontend Web Developer.
+  - Experienced in developing web applications, deploying them on Azure and Google Cloud, and exploring interests in AI and machine learning.
+- 🤖 AI and Machine Learning Enthusiast.
+  - Working on projects like the Loteria Card App (using Python and the Kivy framework) with plans to integrate AI functionality for image recognition to check winning cards.
+  - Conducting research on hardship analysis models to identify correlations and contributing attributes in Chicago communities.
 
-But it's not just about the code; it's about solving real-world problems. From building responsive user interfaces to integrating seamless back-end functionality, I relish every aspect of the development process. Whether it's optimizing performance, ensuring cross-browser compatibility, or embracing best practices in UX/UI design, I'm all about delivering top-notch web solutions.
+#### 📫 Connect with Me:
+- LinkedIn: [Elizabeth Soto]((https://www.linkedin.com/in/elizabethsoto24))
+- Website: [elizabethsoto.com](https://elizabeth-soto.dev)
 
-Beyond the code, I'm a firm believer in collaboration and knowledge sharing. My GitHub journey is not just a personal odyssey; it's an invitation to the vibrant web development community. Let's connect, collaborate, and innovate together as we explore the endless possibilities of web technologies. 🚀 #WebDevEnthusiast
+#### 🚀 Check out my projects below!
+
 
 ### 🛠️ Languages and Tools  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
