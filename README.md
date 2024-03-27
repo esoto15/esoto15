@@ -16,7 +16,7 @@ My name is Elizabeth Soto, and I'm currently a graduate student at Northeastern 
   - Conducting research on hardship analysis models to identify correlations and contributing attributes in Chicago communities.
 
 #### 📫 Connect with Me:
-- LinkedIn: [Elizabeth Soto]((https://www.linkedin.com/in/elizabethsoto24))
+- LinkedIn: [Elizabeth Soto](https://www.linkedin.com/in/elizabethsoto24)
 - Website: [elizabethsoto.com](https://elizabeth-soto.dev)
 
 #### 🚀 Check out my projects below!
