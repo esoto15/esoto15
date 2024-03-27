@@ -17,7 +17,7 @@ My name is Elizabeth Soto, and I'm currently a graduate student at Northeastern 
 
 #### 📫 Connect with Me:
 - LinkedIn: [Elizabeth Soto](https://www.linkedin.com/in/elizabethsoto24)
-- Website: [elizabethsoto.com](https://elizabeth-soto.dev)
+- Website: [elizabeth-soto.dev](https://elizabeth-soto.dev)
 
 #### 🚀 Check out my projects below!
 
