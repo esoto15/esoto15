@@ -5,7 +5,7 @@ My name is Elizabeth Soto, and I'm currently a graduate student at Northeastern 
 #### About Me:
 - 📚 Vice President, Society of Hispanic Professional Engineers (SHPE) Chapter at NEIU.
   - Organizing workshops, inviting industry speakers, and raising funds to support students attending the yearly SHPE conference.
-- 🎓 Part-time Graduate Research Student.
+- 🎓 Master's Researcher
   - Conducting research to improve food pantry engagement through social media posts, with a focus on reaching the Hispanic audience, who are disproportionately affected by food insecurity in the United States.
 - 🌟 Volunteer at the Mission of Our Lady of the Angels food pantry in Chicago.
   - Helping distribute food to 5000 families a month and gaining insights into food insecurity and community support systems.
