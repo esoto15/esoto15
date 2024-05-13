@@ -3,7 +3,7 @@
 My name is Elizabeth Soto, and I'm currently a graduate student at Northeastern Illinois University pursuing a master's degree in Computer Science. I'm expected to graduate in December 2024.
 
 #### About Me:
-- 📚 Vice President, Society of Hispanic Professional Engineers (SHPE) Chapter at NEIU.
+- 📚 President, Society of Hispanic Professional Engineers (SHPE) Chapter at NEIU.
   - Organizing workshops, inviting industry speakers, and raising funds to support students attending the yearly SHPE conference.
 - 🎓 Master's Researcher
   - Conducting research to improve food pantry engagement through social media posts, with a focus on reaching the Hispanic audience, who are disproportionately affected by food insecurity in the United States.
